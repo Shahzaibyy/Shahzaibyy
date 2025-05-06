@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Django, DjangoReastFramework, API's Integrations, ReactJs, Scrapy, Azure Devops, AWS**
+- 🔭 I’m currently working on **Python, Django, DjangoReastFramework, Flask, Fast API's Integrations, ReactJs, Scrapy, Azure Devops, AWS**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
