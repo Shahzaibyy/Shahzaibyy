@@ -185,9 +185,9 @@ achievements:
 
 ## 📊 Languages Used
 
-<div align="center">
+<!-- <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaibyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" />
-</div>
+</div> -->
 
 ---
 
