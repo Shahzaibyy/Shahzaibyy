@@ -76,15 +76,6 @@ achievements:
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Shahzaibyy&theme=radical&no-frame=true&row=1&column=7&margin-h=10&margin-w=5&no-bg=true" />
-</div>
-
----
 
 ## 🛠️ Technology Arsenal
 
@@ -183,7 +174,6 @@ achievements:
 
 ---
 
-## 📊 Languages Used
 
 <!-- <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaibyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" />
