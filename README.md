@@ -1,105 +1,233 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Shahzaib Hassan</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2fff&height=200&section=header&text=Shahzaib%20Hassan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Architect%20%7C%20AI%2FML%20%7C%20IoT%20%7C%20Cloud%20%7C%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" />
+
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Python, Django, DjangoReastFramework, Flask, Fast API's Integrations, ReactJs, Scrapy, Azure Devops, AWS**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode]([https://1010nishant.hashnode.dev/](https://medium.com/@shahzaibshah0028))
-
-- 💬 Ask me about **Python, Django, DjangoReastFramework, API's Integrations, ReactJs, Scrapy, Azure Devops, AWS***
-
-- 📫 Feel free to reach me out **Shahzaibshah0028@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [zaibe_.x]([https://discordapp.com/users/957722095381540874](https://discord.com/channels/@me)) my username!
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=shahzaib512&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,django,flask,aws,python,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/shahzaibshah512/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/Only_Shah555" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://medium.com/@shahzaibshah0028" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-
-<!--profile visit count-->
+<!-- Typing Animation -->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Software+Architect+%7C+4%2B+Years+of+Engineering;AI%2FML+%7C+IoT+%7C+Robotics+%7C+Edge+Computing;Multi-Cloud+%3A+AWS+%7C+GCP+%7C+Azure+%7C+IBM;Voice+AI+%7C+Agentic+AI+%7C+RAG+Pipelines;Building+Systems+that+Scale%2C+Think+%26+See+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
+---
 
-<!--horizontal divider(gradiant)-->
+<!-- About Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧠 About Me
+
+```yaml
+name: Shahzaib Hassan
+title: Software Architect
+location: Islamabad, Pakistan 🇵🇰
+experience: 4+ Years
+company: ZenithPulse (Founder)
+website: https://zenithpulse.uk/
+
+focus_areas:
+  - Multi-Cloud Architecture (AWS · GCP · Azure · IBM)
+  - AI/ML Systems & Agentic AI
+  - IoT Networks & Edge Computing
+  - Robotics & Embedded Systems
+  - Voice AI & RAG Pipelines
+  - Smart CCTV Detection Systems
+  - Full-Stack SaaS / PaaS / IaaS
+
+achievements:
+  - 99.99% uptime for enterprise clients
+  - 40% cost reduction delivered
+  - 30% performance gains
+  - MVP to production in 4 weeks
+```
+
+</td>
+<td width="45%" valign="top">
+
+### 📊 GitHub Stats
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shahzaibyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff&ring_color=00d4ff" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaibyy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2fff&fire=ff6b35&currStreakLabel=00d4ff" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+| 🤖 AI & ML | ☁️ Cloud & DevOps | 🔌 IoT & Robotics | 🌐 Full-Stack |
+|:---:|:---:|:---:|:---:|
+| RAG Pipelines | Multi-Cloud (AWS/GCP/Azure) | Edge Computing | Django / FastAPI |
+| Agentic AI Systems | Docker & Kubernetes | Embedded Systems | React / Next.js |
+| Voice AI Assistants | CI/CD Pipelines | Smart CCTV AI | Microservices |
+| LLM Fine-tuning | Azure DevOps | Sensor Networks | REST / GraphQL APIs |
+| Computer Vision | Terraform / IaC | MQTT / LoRaWAN | SaaS Architecture |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Shahzaibyy&theme=radical&no-frame=true&row=1&column=7&margin-h=10&margin-w=5&no-bg=true" />
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,django,flask,fastapi,nodejs,express&perline=12" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,nginx,linux,git,github,githubactions,terraform,ansible&perline=12" />
+</p>
+
+### 🗄️ Databases & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,dynamodb,firebase,prisma,kafka&perline=12" />
+</p>
+
+### 🤖 AI / ML & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&perline=10" />
+</p>
+
+### 🎨 Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,pug,materialui,tailwind,redux,scrapy&perline=12" />
+</p>
+
+</div>
+
+---
+
+## 🤖 Robotics, IoT & Edge Computing
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                   🔌 IoT & Edge Ecosystem                        │
+├─────────────────┬──────────────────┬────────────────────────────┤
+│  🤖 Robotics    │  📡 IoT Networks  │  ⚡ Edge Computing         │
+├─────────────────┼──────────────────┼────────────────────────────┤
+│  ROS / ROS2     │  MQTT Protocol   │  Edge AI Inference         │
+│  Embedded C/C++ │  LoRaWAN / Zigbee│  TensorFlow Lite           │
+│  Arduino / ESP32│  AWS IoT Core    │  ONNX Runtime              │
+│  Raspberry Pi   │  Azure IoT Hub   │  Jetson Nano / Edge TPU    │
+│  Servo Control  │  Sensor Fusion   │  Real-time Processing      │
+│  Motor Drivers  │  Smart CCTV AI   │  Federated Learning        │
+│  Path Planning  │  Industrial IIoT │  Low-latency Pipelines     │
+└─────────────────┴──────────────────┴────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🧬 Electrical Engineering Foundation
+
+<div align="center">
+
+```
+⚡ Electrical Engineering Background
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Circuit Design & PCB Layout    │  Power Electronics
+  Microcontroller Programming    │  Signal Processing
+  FPGA / VHDL Basics             │  Control Systems
+  Sensor Integration & Datasheets│  Communication Protocols
+  Hardware-Software Co-design    │  Embedded Linux (Yocto)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaibyy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ff6b35" />
+</div>
+
+---
+
+## 🌐 Featured Project: ZenithPulse
+
+<div align="center">
+
+[![ZenithPulse](https://img.shields.io/badge/🚀%20ZenithPulse-My%20Startup-00d4ff?style=for-the-badge&logo=rocket&logoColor=white)](https://zenithpulse.uk/)
+
+> **Engineering intelligent digital products — from IoT networks to AI-powered enterprise platforms.**
+> Full-stack SaaS · Cloud Infrastructure · AI/ML · Robotics Solutions
+
+</div>
+
+---
+
+## 📊 Languages Used
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaibyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahzaib%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzaibshah512/)
+[![Twitter/X](https://img.shields.io/badge/X-Only__Shah555-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Only_Shah555)
+[![Medium](https://img.shields.io/badge/Medium-@shahzaibshah0028-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shahzaibshah0028)
+[![Discord](https://img.shields.io/badge/Discord-zaibe__.x-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/957722095381540874)
+[![Email](https://img.shields.io/badge/Email-Shahzaibshah0028@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shahzaibshah0028@gmail.com)
+[![Website](https://img.shields.io/badge/🌐%20ZenithPulse-zenithpulse.uk-00d4ff?style=for-the-badge)](https://zenithpulse.uk/)
+
+</div>
+
+---
+
+<!-- Quote -->
+<div align="center">
+
+### 💬 Engineering Philosophy
+
+> *"Confusion is part of Programming — but clarity in architecture is everything."*
+>
+> **I build systems that Scale · Think · See · Speak**
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake animation" />
+</div>
+
+<!-- Profile Views -->
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=shahzaib512&icon=3&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00d4ff,100:0d1117&height=120&section=footer" />
