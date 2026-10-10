@@ -1,0 +1,35 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shine" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="currentColor" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="currentColor" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="currentColor" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    svg { color: #111; }
+    .name { fill: #111; font: 300 44px 'Helvetica Neue', Arial, sans-serif; letter-spacing: 14px; }
+    .sub  { fill: #666; font: 400 11px 'SF Mono', Menlo, monospace; letter-spacing: 5px; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #fff; }
+      .name { fill: #f2f2f2; }
+      .sub  { fill: #8a8a8a; }
+    }
+    .name { opacity: 0; animation: rise 1.6s ease-out .2s forwards; }
+    .sub  { opacity: 0; animation: rise 1.6s ease-out .9s forwards; }
+    .line { transform-origin: 450px 0; transform: scaleX(0); animation: draw 1.8s ease-out .5s forwards; }
+    .glint { animation: sweep 5s ease-in-out 2.5s infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes draw { to { transform: scaleX(1); } }
+    @keyframes sweep { 0% { transform: translateX(-300px); } 100% { transform: translateX(900px); } }
+  </style>
+
+  <text x="450" y="95" text-anchor="middle" class="name">SHAHZAIB HASSAN</text>
+
+  <g class="line">
+    <rect x="250" y="120" width="400" height="1" fill="currentColor" opacity="0.25"/>
+    <rect class="glint" x="0" y="120" width="300" height="1" fill="url(#shine)"/>
+  </g>
+
+  <text x="450" y="152" text-anchor="middle" class="sub">ARCHITECT · SRE · PLATFORM · DEVOPS · AI/ML</text>
+</svg>
