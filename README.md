@@ -6,35 +6,78 @@
 
 </div>
 
-<br>
+<br><br>
 
-I design and operate systems that stay up, scale cleanly, and stay simple.
+<div align="center">
+
+I design and operate systems that stay up, scale cleanly, and stay simple.<br>
 Architecture first, automation always, reliability as a feature.
 
-<br>
+</div>
 
-#### FOCUS
+<br><br>
 
-**Software Architecture** — distributed systems, APIs, SaaS platforms<br>
-**Site Reliability Engineering** — SLOs, observability, incident response<br>
-**Platform Engineering** — internal developer platforms, self-service infra<br>
-**DevOps** — CI/CD, Terraform, multi-cloud<br>
-**Kubernetes** — GitOps, autoscaling, cost-efficient clusters<br>
-**AI / ML** — RAG, agentic systems, LLM serving, computer vision
+<div align="center">
+
+<sub><b>F O C U S</b></sub>
 
 <br>
 
-#### IMPACT
+**Software Architecture**<br>
+<sub>Distributed systems · APIs · SaaS platforms</sub>
+
+<br>
+
+**Site Reliability Engineering**<br>
+<sub>SLOs · Observability · Incident response</sub>
+
+<br>
+
+**Platform Engineering**<br>
+<sub>Internal developer platforms · Self-service infrastructure</sub>
+
+<br>
+
+**DevOps**<br>
+<sub>CI/CD · Terraform · Multi-cloud</sub>
+
+<br>
+
+**Kubernetes**<br>
+<sub>GitOps · Autoscaling · Cost-efficient clusters</sub>
+
+<br>
+
+**AI / ML**<br>
+<sub>RAG · Agentic systems · LLM serving · Computer vision</sub>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<sub><b>I M P A C T</b></sub>
+
+<br>
 
 99.99% uptime &nbsp;/&nbsp; 40% cost reduction &nbsp;/&nbsp; 30% faster performance &nbsp;/&nbsp; MVP to production in 4 weeks
 
-<br>
+</div>
 
-#### CONTACT
+<br><br>
+
+<div align="center">
+
+<sub><b>C O N T A C T</b></sub>
+
+<br>
 
 [LinkedIn](https://www.linkedin.com/in/shahzaibshah512/) &nbsp;·&nbsp; [X](https://x.com/Only_Shah555) &nbsp;·&nbsp; [Medium](https://medium.com/@shahzaibshah0028) &nbsp;·&nbsp; [Email](mailto:Shahzaibshah0028@gmail.com) &nbsp;·&nbsp; [Website](https://zenithpulse.uk/)
 
-<br>
+</div>
+
+<br><br>
 
 <div align="center">
 <sub><i>Clarity in architecture is everything.</i></sub>
