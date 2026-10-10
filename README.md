@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="./header.svg" width="100%" alt="Shahzaib Hassan" />
 
@@ -81,4 +81,4 @@ Architecture first, automation always, reliability as a feature.
 
 <div align="center">
 <sub><i>Clarity in architecture is everything.</i></sub>
-</div>
+</div> -->
